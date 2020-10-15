@@ -8,7 +8,7 @@ time: 44
 ---
 ## Prerequisites
 
- - **Proficiency:** intermediate
+ - **Proficiency:** 
  - **Test:** yohoho
  - **Tutorials:** [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](https://github.com/mamosova/tutorials/edit/master/tutorials/test1111/accardion.md)
  - **Web iDE:** Configuring Eclipse with SAP HANA Cloud Platform Tools for Java
