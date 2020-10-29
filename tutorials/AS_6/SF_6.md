@@ -91,6 +91,6 @@ Restart-Computer -Force -ComputerName SERVER1
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-[VALIDATE_1]
 
+[VALIDATE_1]
 [ACCORDION-END]
