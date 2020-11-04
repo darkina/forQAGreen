@@ -1,5 +1,5 @@
 ---
-title: SF_666
+title: Daria_SF_666
 description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
