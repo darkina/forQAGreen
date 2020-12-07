@@ -1,6 +1,6 @@
 ---
-title: Daria_333
-description: 2 new types of rules 2007_1
+title: Daria_777
+description: Test tutorial lorem ipsum dolor sit amet
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
 author_name: AEM
