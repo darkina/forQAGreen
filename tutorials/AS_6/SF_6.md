@@ -1,5 +1,5 @@
 ---
-title: Daria_333666
+title: Daria_333
 description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
@@ -92,5 +92,5 @@ Restart-Computer -Force -ComputerName SERVER1
 | zebra stripes | are neat        |    $1 |
 
 
-[VALIDATE_1]
+[DONE]
 [ACCORDION-END]
