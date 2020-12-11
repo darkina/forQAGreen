@@ -1,5 +1,5 @@
 ---
-title: DDDaria_SF_616
+title: Daria_SF_616
 description: Links, tips, tricks and more for getting started with the SAP HANA, express edition
 primary_tag: products>sap-cloud-platform--abap-environment  
 tags: [  tutorial>beginner, topic>abap-development, products>sap-cloud-platform]
