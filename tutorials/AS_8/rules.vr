@@ -90,14 +90,14 @@ Who you are? (answer is QA)
 multiple-choice
 
 ###Question
-What do you like? (answer are comedy, adventure, horror)
+What do you like? (answer are comedy, adventure, melodrama, horror)
 
 ###Match
 [x] comedy
 [ ] drama
 [ ] fantastic
 [x] horror
-[ ] melodrama
+[x] melodrama
 [ ] thriller
 [X] adventure
 [ ] erotic
