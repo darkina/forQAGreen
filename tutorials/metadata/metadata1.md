@@ -2,7 +2,7 @@
 title: Daria Metadaria
 description: Add an existing Web Dynpro ABAP backend app to your freestyle Portal site.
 auto_validation: true
-primary_tag: products>abap-developmen
+primary_tag: tutorial:product/sapHana
 tags: [ tutorial>beginner, topic>cloud, products>sap-cloud-platform-portal ]
 author_name: Lindsay Bert
 author_profile: https://github.com/LindsayBert
